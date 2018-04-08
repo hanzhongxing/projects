@@ -12,6 +12,7 @@
         <groupId>com.test.my</groupId>
         <artifactId>com.test.core</artifactId>
         <version>1.0</version>
+        
     </dependency>
 </dependencies>
 
