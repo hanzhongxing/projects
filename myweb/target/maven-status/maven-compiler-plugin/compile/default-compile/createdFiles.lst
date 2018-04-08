@@ -1,0 +1,5 @@
+com\test\project\controller\HomeController.class
+com\test\project\controller\index\IndexController.class
+com\test\project\base\config\RootConfig.class
+com\test\project\base\WebConfig.class
+com\test\project\controller\common\BaseController.class
