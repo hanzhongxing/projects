@@ -7,6 +7,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/myweb/pom.xml" />
+        <option value="$PROJECT_DIR$/myserver/pom.xml" />
+        <option value="$PROJECT_DIR$/mydependency/mycore/pom.xml" />
+        <option value="$PROJECT_DIR$/mydependency/servercore/pom.xml" />
+        <option value="$PROJECT_DIR$/mydependency/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,11 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.test.core" />
+        <module name="com.test.myserver" />
+        <module name="com.test.servercore" />
+        <module name="mycore" />
         <module name="myweb" />
+        <module name="servercore" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.test.core" target="1.5" />
+      <module name="com.test.dependency" target="1.5" />
+      <module name="com.test.myserver" target="1.5" />
+      <module name="com.test.servercore" target="1.5" />
+      <module name="mycore" target="1.5" />
       <module name="myweb" target="1.7" />
+      <module name="servercore" target="1.5" />
       <module name="web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
