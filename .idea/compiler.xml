@@ -9,7 +9,10 @@
         <module name="com.test.core" />
         <module name="com.test.myserver" />
         <module name="com.test.servercore" />
+        <module name="daocore" />
+        <module name="daoserver" />
         <module name="mycore" />
+        <module name="myserver" />
         <module name="myweb" />
         <module name="servercore" />
       </profile>
@@ -19,7 +22,11 @@
       <module name="com.test.dependency" target="1.5" />
       <module name="com.test.myserver" target="1.5" />
       <module name="com.test.servercore" target="1.5" />
+      <module name="daocore" target="1.5" />
+      <module name="daoserver" target="1.5" />
+      <module name="dependency" target="1.5" />
       <module name="mycore" target="1.5" />
+      <module name="myserver" target="1.5" />
       <module name="myweb" target="1.7" />
       <module name="servercore" target="1.5" />
       <module name="web" target="1.5" />

@@ -6,11 +6,13 @@
 
     <groupId>com.test.my</groupId>
     <artifactId>com.test.dependency</artifactId>
+    <name>dependency</name>
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
         <module>mycore</module>
         <module>servercore</module>
+        <module>daocore</module>
     </modules>
 
 

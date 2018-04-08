@@ -7,6 +7,7 @@
     <groupId>com.test.my</groupId>
     <artifactId>com.test.myserver</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>myserver</name>
 <dependencies>
     <dependency>
         <groupId>com.test.my</groupId>
