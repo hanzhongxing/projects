@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mydependency/base-core/base-core.iml" filepath="$PROJECT_DIR$/mydependency/base-core/base-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydependency/daocore/daocore.iml" filepath="$PROJECT_DIR$/mydependency/daocore/daocore.iml" />
       <module fileurl="file://$PROJECT_DIR$/daoserver/daoserver.iml" filepath="$PROJECT_DIR$/daoserver/daoserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydependency/dependency.iml" filepath="$PROJECT_DIR$/mydependency/dependency.iml" />
@@ -9,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/myserver/com.test.myserver.iml" filepath="$PROJECT_DIR$/myserver/com.test.myserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/myweb/myweb.iml" filepath="$PROJECT_DIR$/myweb/myweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projects.iml" filepath="$PROJECT_DIR$/.idea/projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mydependency/servercore/servercore.iml" filepath="$PROJECT_DIR$/mydependency/servercore/servercore.iml" />
     </modules>
   </component>
 </project>

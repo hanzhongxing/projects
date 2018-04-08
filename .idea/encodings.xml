@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daoserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mydependency" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mydependency/base-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mydependency/daocore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mydependency/mycore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/myweb" charset="UTF-8" />
   </component>
 </project>
