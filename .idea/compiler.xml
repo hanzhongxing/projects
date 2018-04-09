@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
         <module name="base-core" />
+        <module name="com.test.admin" />
         <module name="com.test.core" />
         <module name="com.test.dao-core" />
         <module name="com.test.myserver" />
@@ -20,7 +22,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admin" target="1.7" />
       <module name="base-core" target="1.7" />
+      <module name="com.test.admin" target="1.7" />
       <module name="com.test.core" target="1.5" />
       <module name="com.test.dao-core" target="1.7" />
       <module name="com.test.dependency" target="1.5" />

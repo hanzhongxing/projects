@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/daoserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mydependency" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mydependency/base-core" charset="UTF-8" />

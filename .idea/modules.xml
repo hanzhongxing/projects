@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydependency/base-core/base-core.iml" filepath="$PROJECT_DIR$/mydependency/base-core/base-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydependency/dao-core/com.test.dao-core.iml" filepath="$PROJECT_DIR$/mydependency/dao-core/com.test.dao-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/daoserver/daoserver.iml" filepath="$PROJECT_DIR$/daoserver/daoserver.iml" />
