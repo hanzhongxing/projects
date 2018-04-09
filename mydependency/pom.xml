@@ -15,7 +15,7 @@
     <version>1.0</version>
     <modules>
         <module>mycore</module>
-        <module>servercore</module>
+        <module>base-core</module>
         <module>daocore</module>
     </modules>
 

@@ -9,7 +9,7 @@
         <version>1.0</version>
     </parent>
     <groupId>com.test.my</groupId>
-    <artifactId>com.test.db</artifactId>
+    <artifactId>com.test.dbserver</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>dbserver</name>
     <dependencies>

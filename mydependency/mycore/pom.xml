@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <name>mycore</name>
-    <artifactId>com.test.core</artifactId>
-    <version>1.1</version>
+    <artifactId>com.test.mycore</artifactId>
+    <version>1.0</version>
 
 </project>

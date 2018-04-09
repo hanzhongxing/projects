@@ -9,9 +9,9 @@ import java.io.IOException;
  */
 public class Server {
     public static void main(String[] args){
-        ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("dubbo-provider.xml") ;
+        ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("spring/applicationContext.xml") ;
         ac.start();
-        System.out.println("myserver start");
+        System.out.println("myServer start");
         try {
             System.in.read();
         } catch (IOException e) {
