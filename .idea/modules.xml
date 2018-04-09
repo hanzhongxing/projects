@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mydependency/base-core/base-core.iml" filepath="$PROJECT_DIR$/mydependency/base-core/base-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mydependency/daocore/daocore.iml" filepath="$PROJECT_DIR$/mydependency/daocore/daocore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydependency/dao-core/com.test.dao-core.iml" filepath="$PROJECT_DIR$/mydependency/dao-core/com.test.dao-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/daoserver/daoserver.iml" filepath="$PROJECT_DIR$/daoserver/daoserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydependency/dependency.iml" filepath="$PROJECT_DIR$/mydependency/dependency.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydependency/mycore/mycore.iml" filepath="$PROJECT_DIR$/mydependency/mycore/mycore.iml" />

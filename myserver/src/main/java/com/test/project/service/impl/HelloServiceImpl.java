@@ -4,7 +4,6 @@ import com.test.project.service.DaoService;
 import com.test.project.service.HelloService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * Created by hanzhongxing on 2018/4/8.

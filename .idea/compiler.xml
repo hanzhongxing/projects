@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="base-core" />
         <module name="com.test.core" />
+        <module name="com.test.dao-core" />
         <module name="com.test.myserver" />
+        <module name="dao-core" />
         <module name="daocore" />
         <module name="daoserver" />
         <module name="mycore" />
@@ -20,9 +22,11 @@
     <bytecodeTargetLevel>
       <module name="base-core" target="1.7" />
       <module name="com.test.core" target="1.5" />
+      <module name="com.test.dao-core" target="1.7" />
       <module name="com.test.dependency" target="1.5" />
       <module name="com.test.myserver" target="1.5" />
       <module name="com.test.servercore" target="1.7" />
+      <module name="dao-core" target="1.7" />
       <module name="daocore" target="1.7" />
       <module name="daoserver" target="1.7" />
       <module name="dependency" target="1.7" />

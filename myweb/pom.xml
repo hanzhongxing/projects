@@ -37,10 +37,24 @@
       <scope>test</scope>
     </dependency>
 
+      <!-- https://mvnrepository.com/artifact/atg.taglib.json/json-taglib -->
+      <dependency>
+          <groupId>atg.taglib.json</groupId>
+          <artifactId>json-taglib</artifactId>
+          <version>0.4.1</version>
+          <scope>system</scope>
+          <systemPath>D:/work/maven-lib/atg/taglib/json/json-taglib/0.4.1/json-taglib-0.4.1.jar</systemPath>
+      </dependency>
+
+      <!-- https://mvnrepository.com/artifact/com.googlecode.rapid-framework/rapid-core -->
+      <dependency>
+          <groupId>com.googlecode.rapid-framework</groupId>
+          <artifactId>rapid-core</artifactId>
+          <version>4.0.5</version>
+      </dependency>
 
 
-
-    <!--j2ee相关包 servlet、jsp、jstl-->
+      <!--j2ee相关包 servlet、jsp、jstl-->
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>javax.servlet-api</artifactId>
@@ -195,6 +209,7 @@
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-maven-plugin</artifactId>
           <version>9.1.0.v20131115</version>
+
         </plugin>
 
         <plugin>
@@ -204,6 +219,7 @@
           <configuration>
             <port>8080</port>
             <path>/</path>
+              <uriEncoding>UTF-8</uriEncoding>
           </configuration>
         </plugin>
       </plugins>

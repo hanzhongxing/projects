@@ -16,7 +16,7 @@
     <modules>
         <module>mycore</module>
         <module>base-core</module>
-        <module>daocore</module>
+        <module>dao-core</module>
     </modules>
 
 

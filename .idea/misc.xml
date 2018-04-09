@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/daoserver/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/mydependency/base-core/pom.xml" />
+        <option value="$PROJECT_DIR$/mydependency/dao-core/pom.xml" />
       </list>
     </option>
   </component>

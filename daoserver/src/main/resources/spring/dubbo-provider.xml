@@ -11,6 +11,8 @@
      <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181" />
      <dubbo:protocol name="dubbo" port="20881" />
      <dubbo:service interface="com.test.project.service.DaoService" ref="daoService" />
-
-     <bean id="daoService" class="com.test.project.service.impl.DaoServiceImpl" />
+     <bean name="dao" class="com.test.project.dao.impl.DaoImpl"></bean>
+     <bean id="daoService" class="com.test.project.service.impl.DaoServiceImpl" >
+          <property name="dao" ref="dao"></property>
+     </bean>
 </beans>
